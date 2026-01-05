@@ -6,8 +6,6 @@ import RequestQuoteIcon from '@mui/icons-material/RequestQuote';
 import HistoryIcon from '@mui/icons-material/History';
 import AccountBalanceWalletIcon from '@mui/icons-material/AccountBalanceWallet';
 import { formatUsdc } from '@/config';
-
-// Mock data - replace with actual data from the blockchain
 const mockLoanOffers = [
   {
     id: 1,
